@@ -1,19 +1,8 @@
-<<<<<<< HEAD
-x <- rnorm(500)
-y <- rnorm(500)
+
+x <- rnorm(100)
+y <- rnorm(100)
 
 # important feature.
 
 # new feature - adding something here
-
-x <- rnorm(200)
-y <- rnorm(300)
-
-# important feature.
-
-# new feature
-
-# crazy stuff
-
-# new stuff
 
